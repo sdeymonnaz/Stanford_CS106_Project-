@@ -6,8 +6,7 @@ import geopandas as gpd
 import random
 
 # Set the working directory and map size
-os.chdir("/Users/SPD/OneDrive/Documentos/Stanford Code in "
-         "Place/Stanford_CS106_Project/Stanford_CS106_Project-/Project_map_plotter/")
+os.chdir("/Users/SPD/OneDrive/Documentos/Stanford Code in Place/Project_map_plotter/")
 plt.rcParams["figure.figsize"] = (12, 8)
 
 COUNTRY_DIRECTORY = "countries/"
